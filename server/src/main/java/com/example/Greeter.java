@@ -18,5 +18,5 @@ public class Greeter {
   }
   public String newGreet(){
     return "vinod";
-  
+  }
 }
